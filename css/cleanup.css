@@ -23,6 +23,6 @@ div.parent:nth-child(2)div#tag-5.slick {
   display: none;
 }
 
-div.parent:last-child:first-child:first-child#tag-7.slick {
+#wall div.parent:last-child:first-child:first-child#tag-7.slick {
   display: none;
 }
