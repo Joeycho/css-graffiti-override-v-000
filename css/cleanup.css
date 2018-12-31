@@ -16,9 +16,7 @@ div.tag-1{
 }
 #wall div.parent:nth-child(2) #tag-5.slick
  {
-    background: url(../images/tag-5.png) no-repeat;
-    z-index: 3;
-    display: block;
+    display: none
 }
 
 #wall div.parent:nth-last-child(1) div:last-child > #tag-6 {
