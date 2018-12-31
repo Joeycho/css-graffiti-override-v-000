@@ -14,12 +14,12 @@ div.tag-1{
 #wall div#tag-3 +div.parent #tag-4 {
   display: none;
 }
-#wall div.parent:nth-child(2) #tag-5
+div#wall div.parent:nth-child(2) #tag-5
  {
     display: none
 }
 
-#wall div.parent:nth-last-child(1) div:last-child > #tag-6 {
+#wall div.parent:nth-child(3) div:last-child > #tag-6 {
   display: none;
 }
 
