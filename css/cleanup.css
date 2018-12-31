@@ -23,3 +23,7 @@ div.parent:nth-child(2) div#tag-5.slick {
   display: none;
 }
 
+
+#wall div.parent:last-child div:first-child:first-child div#tag-7.slick {
+  display: none;
+}
